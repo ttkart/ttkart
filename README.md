@@ -2,7 +2,7 @@
 Hi :) 
 * I am currently looking for internship opportunties in: Cloud architect, Solution architect, Cloud associate, IT 
 * Please reach me at: karthika.thiruvallur@gmail.com
-![](about_me.png)
+![](me.png)
 <!--
 
 
