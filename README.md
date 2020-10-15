@@ -1,6 +1,8 @@
 ### 
-Hi :) 
-* I am currently looking for internship opportunties in: Cloud architect, Solution architect, Cloud associate, IT 
+Hi :)
+* Third-year at San Jose State University majoring in Software Engineering. 
+* AWS Edcuate Cloud Degree program student.
+* I am currently looking for internship opportunties in: Cloud architect, Solution architect, Cloud associate, IT.
 * Please reach me at: karthika.thiruvallur@gmail.com
 ![](me.png)
 <!--
