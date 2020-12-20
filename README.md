@@ -2,6 +2,7 @@
 Hi :) 
 
 I am: 
+* Incoming Solutions architect intern @ Amtrak for the Winter/Spring & Incoming Tech Audit (CyberSecurity) at Verizon for the Summer.
 * Third-year student at San Jose State University, majoring in Software Engineering. 
 * AWS Edcuate Cloud Degree program student.
 * I am currently looking for internship opportunties in: Cloud architect, Solution architect, Cloud associate, Cloud engineer.
