@@ -7,11 +7,10 @@ I am:
 
 Experience: 
 * Incoming Solutions architect intern @ Amtrak for the Winter/Spring.
-* Incoming Tech Audit (CyberSecurity) at Verizon for the Summer.
+* Incoming Tech Audit (CyberSecurity) @ Verizon for the Summer.
 
-Interests: 
-* I am currently looking for internship opportunties in: Cloud architect, Solution architect, Cloud associate, Cloud engineer.
-* Please reach me at: karthika.thiruvallur@gmail.com 
+
+Please reach me at: karthika.thiruvallur@gmail.com 
 
 ![](me.png)
 <!--
