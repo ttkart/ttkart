@@ -5,10 +5,6 @@ I am:
 * Third-year student at San Jose State University, majoring in Software Engineering. 
 * AWS Edcuate Cloud Degree program student.
 
-Experience: 
-* Incoming Solutions architect intern @ Amtrak for the Winter/Spring.
-* Incoming Tech Audit (CyberSecurity) @ Verizon for the Summer.
-
 
 Please reach me at: karthika.thiruvallur@gmail.com 
 
