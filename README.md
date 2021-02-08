@@ -3,7 +3,6 @@ Hi :)
 
 I am: 
 * Third-year student at San Jose State University, majoring in Software Engineering. 
-* AWS Edcuate Cloud Degree program student.
 
 
 Please reach me at: karthika.thiruvallur@gmail.com 
