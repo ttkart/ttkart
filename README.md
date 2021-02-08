@@ -7,7 +7,7 @@ I am:
 
 Please reach me at: karthika.thiruvallur@gmail.com 
 
-![](me.png)
+![]()
 <!--
 
 
